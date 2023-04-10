@@ -1,0 +1,70 @@
+Linux
+
+Introduction:
+What is Linux
+Need 
+Unix vs Linux
+Features 
+Components of Linux
+Architecture
+Kernel
+Shell
+Linux Distribution
+
+Editor and Filesystem Management:
+File System
+File Operations
+File Attributes
+File Access Methods
+Formatting and Partitioning
+LVM(Logical Volume Manager)
+
+User Administration:
+Users – Adding/Deleting/Modifying
+User Configuration
+Group Administration
+Switching Accounts
+Sudo
+Default File Permissions
+Hidden Files
+
+Boot & Package Management:
+Boot Management
+Grub Bootloader Configuration
+YUM
+Red Hat Package Manager
+
+Networking:
+OSI Layers & Protocol- Ipv4, TCP, UDP, FTP, TFTP, Telnet, SSH, HTTP, DNS,DHCP, ARP, ICMP
+Troubleshoot- netstat, ip, ifconfig
+Remote log in- SSH
+
+Processes & Scripting:
+Process Management
+Process Commands
+Output Redirection
+
+Security Administration, Shell Script and Virtualization
+
+
+
+
+Hands On-
+Installation
+Commands and Tools
+Vim Editor
+Adding Disk
+Creating partitions, VG, LV
+Chown and Chmod
+Adding/Delete/Modifying User
+Adding group
+IP addresses
+IP tables
+DNS
+ICMP
+dnsmasq.conf
+Process Commands- top, kill, ps
+Shell Scripting using Awk,substitution
+
+
+
